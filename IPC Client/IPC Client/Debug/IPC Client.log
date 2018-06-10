@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\minaam.fasihi\documents\visual studio 2017\projects\client-server-ipc-cpp\ipc client\ipc client\client.h(18): warning C4101: 'e': unreferenced local variable
+c:\users\minaam.fasihi\documents\visual studio 2017\projects\client-server-ipc-cpp\ipc client\ipc client\client.h(36): warning C4101: 'e': unreferenced local variable
+c:\users\minaam.fasihi\documents\visual studio 2017\projects\client-server-ipc-cpp\ipc client\ipc client\client.h(53): warning C4101: 'e': unreferenced local variable
+c:\users\minaam.fasihi\documents\visual studio 2017\projects\client-server-ipc-cpp\ipc client\ipc client\client.h(21): warning C4172: returning address of local variable or temporary: hCreateFile
+  IPC Client.vcxproj -> C:\Users\minaam.fasihi\Documents\Visual Studio 2017\Projects\client-server-ipc-cpp\IPC Client\Debug\IPC Client.exe
