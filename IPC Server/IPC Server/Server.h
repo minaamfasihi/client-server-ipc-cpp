@@ -3,7 +3,7 @@
 #include <ctime>
 #include <string>
 
-HANDLE& getNamedPipe() {
+HANDLE getNamedPipe() {
 	HANDLE hCreateNamedPipe;
 	char inputBuffer[1023];
 	char outputBuffer[1023];
