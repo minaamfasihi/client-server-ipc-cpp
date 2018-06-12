@@ -2,7 +2,7 @@
 #include <iostream>
 #include <windows.h>
 
-HANDLE& createFile() {
+HANDLE createFile() {
 	HANDLE hCreateFile;
 	try {
 		hCreateFile = CreateFile(
